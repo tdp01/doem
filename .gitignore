@@ -1,0 +1,4 @@
+#忽略所有txt结尾的文件
+*.txt
+#忽略当前目录下的mode_modules
+node_modules
